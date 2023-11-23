@@ -14,7 +14,7 @@ const greeting = {
   username: "Miftahul Ihsan",
   title: "Hi all, I'm Ihsan",
   subTitle: emoji(
-    "A passionate Full Stack Mobile Developer 🚀 having an experience of building Web and Mobile applications with Laravel/Flutter/Kotlin/Javascript"
+    "A passionate Mobile And BackEnd Developer 🚀 having an experience of building Web and Mobile applications with Laravel/Flutter/Golang"
   ),
   resumeLink:
     "https://drive.google.com/drive/folders/1-6sqT3HeprYmZ2hnzR-c13Vn7bCE0DPp?usp=sharing", // Set to empty to hide the button
@@ -142,11 +142,18 @@ const workExperiences = {
       descBullets: ["Experimenting with the feature"]
     },
     {
-      role: "Software Engineer Intern",
-      company: "Dinas PUTR Inhil",
-      companylogo: require("./assets/images/dputr.png"),
-      date: "September 2020-November 2020",
-      desc: "Build Geographic Information System for construction"
+      role: "Technical Support ",
+      company: "PT Integra Mitra Sejati",
+      companylogo: require("https://www.imitra.com/assets/img/logo.png"),
+      date: "April 2023-Oktober 2023",
+      desc: "Provide Technical Support To Our Customer"
+    },
+      {
+      role: "Data Analyst ",
+      company: "PT Integra Mitra Sejati",
+      companylogo: require("https://www.imitra.com/assets/img/logo.png"),
+      date: "April 2023-Oktober 2023",
+      desc: "Pooling data from database,analyze and give to stakeholders"
     }
   ]
 };
@@ -175,6 +182,11 @@ const bigProjects = {
       projectName: "Food Market",
       projectDesc: "Food Market Using Flutter And Bloc with laravel backend"
     }
+      {
+      image: require("./assets/images/logo.png"),
+      projectName: "Backend Photo Gram",
+      projectDesc: "A backend portfolio, using middleware,jwt,gin,gorm,hashing password with bcrypt, a scalable and clean architure for golang"
+    }
   ],
   display: true // Set false to hide this section, defaults to true
 };
@@ -199,14 +211,13 @@ const achievementSection = {
       ]
     },
     {
-      title: "Getting Started With Deep Learning",
-      subtitle:
-        "Certification Of Completed Getting Started With Deep Learning ",
-      image: require("./assets/images/nvidia.png"),
+      title: "Scalable Web Service With Golang",
+      subtitle: "Enrolled courses scalable web service with golang",
+      image: require("https://www.hacktiv8.com/_next/image?url=%2Flogo.png&w=1920&q=75"),
       footerLink: [
         {
-          name: "View ",
-          url: "https://drive.google.com/file/d/1-8vXEKy2wwlOusKwxrFRwAANqzSCQnvR/view?usp=sharing"
+          name: "Certification",
+          url: "https://drive.google.com/file/d/0B7kazrtMwm5dYkVvNjdNWjNybWJrbndFSHpNY2NFV1p4YmU0/view?usp=sharing"
         }
       ]
     }
