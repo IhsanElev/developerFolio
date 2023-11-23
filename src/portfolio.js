@@ -183,7 +183,7 @@ const bigProjects = {
       projectDesc: "Food Market Using Flutter And Bloc with laravel backend"
     },
       {
-      image: require("./assets/images/hacktiv8.png"),
+      image: require("./assets/images/hacktiv8.jpg"),
       projectName: "Backend Photo Gram",
       projectDesc: "A backend portfolio, using middleware,jwt,gin,gorm,hashing password with bcrypt, a scalable and clean architure for golang"
     }
@@ -213,7 +213,7 @@ const achievementSection = {
     {
       title: "Scalable Web Service With Golang",
       subtitle: "Enrolled courses scalable web service with golang",
-      image: require("./assets/images/hacktiv8.png"),
+      image: require("./assets/images/hacktiv8.jpg"),
       footerLink: [
         {
           name: "Project",
