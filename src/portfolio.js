@@ -181,7 +181,7 @@ const bigProjects = {
       image: require("./assets/images/logo.png"),
       projectName: "Food Market",
       projectDesc: "Food Market Using Flutter And Bloc with laravel backend"
-    }
+    },
       {
       image: require("./assets/images/logo.png"),
       projectName: "Backend Photo Gram",
