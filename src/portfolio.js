@@ -144,14 +144,14 @@ const workExperiences = {
     {
       role: "Technical Support ",
       company: "PT Integra Mitra Sejati",
-      companylogo: require("./assets/images/ims.jpg"),
+      companylogo: require("./assets/images/ims.png"),
       date: "April 2023-Oktober 2023",
       desc: "Provide Technical Support To Our Customer"
     },
       {
       role: "Data Analyst ",
       company: "PT Integra Mitra Sejati",
-      companylogo: require("./assets/images/ims.jpg"),
+      companylogo: require("./assets/images/ims.png"),
       date: "April 2023-Oktober 2023",
       desc: "Pooling data from database,analyze and give to stakeholders"
     }
