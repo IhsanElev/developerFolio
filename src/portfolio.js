@@ -183,7 +183,7 @@ const bigProjects = {
       projectDesc: "Food Market Using Flutter And Bloc with laravel backend"
     },
       {
-      image: require("./assets/images/logo.png"),
+      image: require("./assets/images/hacktiv8.png"),
       projectName: "Backend Photo Gram",
       projectDesc: "A backend portfolio, using middleware,jwt,gin,gorm,hashing password with bcrypt, a scalable and clean architure for golang"
     }
@@ -213,11 +213,11 @@ const achievementSection = {
     {
       title: "Scalable Web Service With Golang",
       subtitle: "Enrolled courses scalable web service with golang",
-      image: require("https://www.hacktiv8.com/_next/image?url=%2Flogo.png&w=1920&q=75"),
+      image: require("./assets/images/hacktiv8.png"),
       footerLink: [
         {
-          name: "Certification",
-          url: "https://drive.google.com/file/d/0B7kazrtMwm5dYkVvNjdNWjNybWJrbndFSHpNY2NFV1p4YmU0/view?usp=sharing"
+          name: "Project",
+          url: "https://github.com/IhsanElev/PhotoGramBackend"
         }
       ]
     }
